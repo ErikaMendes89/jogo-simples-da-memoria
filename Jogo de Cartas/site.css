@@ -1,0 +1,26 @@
+:root{
+ --bg: #000000;
+ --font:"Archivo", sans-serif;
+ --font-display:"Archivo Narrow", sans-serif;
+ --hotpink: #25efd4;
+ --orange: #351fde;
+ --gradient: linear-gradient(35deg, var(--orange), var(--hotpink));
+}
+
+body{
+ margin:auto;
+ min-height:100vh ;
+ background: var(--bg);
+ font-family: var(--font);
+}
+
+@media (max-width: 768px) {
+    .cards {
+        max-width: 90%;
+    }
+    .card {
+        width: 10%;
+        padding-bottom: 10%;
+        margin: 1%;
+    }
+}
