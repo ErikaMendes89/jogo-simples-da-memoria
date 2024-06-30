@@ -34,4 +34,4 @@ Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à 
 Divirta-se jogando! 🃏🎮
 
 
-![HideoKojimaLaughGIF](https://github.com/ErikaMendes89/jogo-simples-da-memoria/assets/95776659/710d3b07-9127-4b16-8057-816322248b75)
+<img src="https://github.com/ErikaMendes89/projeto-meu-portfolio-atualizado/blob/main/Projeto-portifolio/imagens/jogo-da-memoria-gif.gif">
